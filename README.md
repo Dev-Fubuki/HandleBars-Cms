@@ -4,6 +4,8 @@
 
 Desenvolvido com Node.js, Express e Handlebars, este projeto oferece uma estrutura robusta para um sistema de gerenciamento de conteúdo (CMS).
 
+![Animação](https://github.com/user-attachments/assets/7f459ce1-8a6f-4031-bf79-634fa5746ad7)
+
 ---
 
 # 📝 **Descrição**
