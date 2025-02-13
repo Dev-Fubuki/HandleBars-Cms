@@ -1,6 +1,6 @@
-# **HandleBars CMS** 🛠️
+# 🛠️ **HandleBars CMS** 
 
-## **Um CMS utilizando Express e Handlebars**
+## **CMS utilizando Node, Express e Handlebars**
 
 Desenvolvido com Node.js, Express e Handlebars, este projeto oferece uma estrutura robusta para um sistema de gerenciamento de conteúdo (CMS).
 
